@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "113729838572",
+    "firebase_url": "https://chatkuy-d7516.firebaseio.com",
+    "project_id": "chatkuy-d7516",
+    "storage_bucket": "chatkuy-d7516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113729838572:android:ebaa31032bd8e65a",
+        "android_client_info": {
+          "package_name": "dimas.chatkuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113729838572-0fo9ktlht9auk4lq9nagg6cbmq6batgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dimas.chatkuy",
+            "certificate_hash": "239c1a1e793b1ba8dd22f8432229d78ba484d6b9"
+          }
+        },
+        {
+          "client_id": "113729838572-v8146crpcnt50d374uq997ffcep80e7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2t6Z4pQcx63Wbqt7iMf5PhkdHgu-TuzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113729838572-v8146crpcnt50d374uq997ffcep80e7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
